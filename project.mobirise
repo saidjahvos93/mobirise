@@ -26,7 +26,7 @@
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": "",
+    "google-analytics": "Tracking ID\r\nUA-100068747-1",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
   },
   "pages": {
